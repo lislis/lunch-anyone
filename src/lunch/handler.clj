@@ -14,7 +14,7 @@
    :pizza {:emoji ":pizza-spin:"}
    :bagel {:emoji ":bagel:"}
    :burger {:emoji ":burger:"}
-   :thai {:emoji ":papaya:"}
+   :thai {:emoji ":padthai:"}
    :vietnamese {:emoji ":curry:"}
    :hotdog-soup {:emoji ":hotdog::soup:"}})
 
