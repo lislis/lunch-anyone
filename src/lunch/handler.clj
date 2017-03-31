@@ -6,7 +6,8 @@
             [clojure.data.json :as json]
             [ring.adapter.jetty :as ring]
             [hiccup.core :as hiccup]
-            [hiccup.page :as hp]))
+            [hiccup.page :as hp])
+  (:gen-class))
 
 (def lunch-options
   {:falafel {:emoji ":falafel:"}
