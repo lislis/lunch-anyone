@@ -1,1 +1,1 @@
-web: java $JVM_OPTS -jar target/lunch-anyone-standalone.jar
+web: java $JVM_OPTS -jar target/lunch-standalone.jar
