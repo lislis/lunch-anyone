@@ -17,7 +17,8 @@
    :thai {:emoji ":padthai:"}
    :vietnamese {:emoji ":curry:"}
    :hotdog-soup {:emoji ":hotdog::soup:"}
-   :empanada {:emoji ":empanada:"}})
+   :empanada {:emoji ":empanada:"}
+   :kumpir {:emoji ":kumpir:"}})
 
 (defn lunch-option [options]
   (rand-nth (vals options)))
